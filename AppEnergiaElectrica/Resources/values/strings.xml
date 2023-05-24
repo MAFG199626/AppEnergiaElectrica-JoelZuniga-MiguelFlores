@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppEnergiaElectrica</string>
+    <string name="action_settings">Settings</string>
+	<string name="año">Seleccione un Año</string>
+	<string name="mes">Seleccione un Mes</string>
+	<string name="detalle">Detalle</string>
+
+	<string name="dato1">Residencial</string>
+	<string name="dato2">Comercial</string>
+	<string name="dato3">Industrial</string>
+	<string name="dato4">Irrigacion</string>
+	<string name="dato5">Bombeo</string>
+	<string name="dato6">Promedio Nacional</string>
+</resources>
